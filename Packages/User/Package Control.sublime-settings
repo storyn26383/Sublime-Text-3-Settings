@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Babel",
+		"Blade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Console API Snippets (JavaScript)",
+		"CTags",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"Phpcs",
+		"SCSS",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"Surround",
+		"Theme - Afterglow",
+		"Tomorrow Color Schemes",
+		"Vintage Surround"
+	]
+}

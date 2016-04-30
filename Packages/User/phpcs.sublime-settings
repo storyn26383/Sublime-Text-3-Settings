@@ -1,0 +1,15 @@
+{
+    "phpcs_execute_on_save": true,
+    "phpcs_show_errors_on_save": false,
+    "phpcs_command_on_save": false,
+    "php_cs_fixer_on_save": false,
+    "phpcbf_on_save": true,
+    "phpcs_linter_command_on_save": true,
+    "phpmd_command_on_save": true,
+    "scheck_command_on_save": false,
+
+    "phpcs_executable_path": "/Users/Sasaya/.composer/vendor/bin/phpcs",
+    "phpmd_executable_path": "/Users/Sasaya/.composer/vendor/bin/phpmd",
+    "phpcbf_executable_path": "/Users/Sasaya/.composer/vendor/bin/phpcbf",
+    "php_cs_fixer_executable_path": "/Users/Sasaya/.composer/vendor/bin/php-cs-fixer"
+}

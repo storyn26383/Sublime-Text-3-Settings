@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+private function ${1:methodName}($2)
+{
+    $3
+}
+]]></content>
+	<tabTrigger>prif</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

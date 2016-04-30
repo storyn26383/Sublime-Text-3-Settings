@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+namespace ${1}
+
+abstract class ${2:ClassName}
+{
+    ${3}
+}
+]]></content>
+	<tabTrigger>aclass</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

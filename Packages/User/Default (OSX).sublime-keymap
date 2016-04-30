@@ -1,0 +1,29 @@
+[
+	{ "keys": ["ctrl+tab"], "command": "auto_complete" },
+    { "keys": ["super+0"], "command": "reset_font_size_to_default" },
+    { "keys": ["ctrl+super+alt+up"], "command": "navigate_to_definition" },
+    { "keys": ["ctrl+super+alt+left"], "command": "jump_prev" },
+    { "keys": ["ctrl+c", "ctrl+e"], "command": "expand_fqcn" },
+    { "keys": ["ctrl+c", "ctrl+f"], "command": "find_use" },
+    { "keys": ["ctrl+c", "ctrl+c"], "command": "insert_php_constructor_property" },
+    { "keys": ["ctrl+c", "ctrl+i"], "command": "import_namespace" },
+    { "keys": ["j", "j"], "command": "exit_insert_mode",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": false },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    },
+    { "keys": ["ctrl+j"], "command": "swap_line_down",
+        "context":
+        [
+            { "key": "setting.command_mode" }
+        ]
+    },
+    { "keys": ["ctrl+k"], "command": "swap_line_up",
+        "context":
+        [
+            { "key": "setting.command_mode" }
+        ]
+    }
+]

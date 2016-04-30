@@ -1,0 +1,8 @@
+{
+	"mid_line_tabs": true,
+	// "jsdocs_function_description": false,
+	"jsdocs_return_description": false,
+	"jsdocs_param_description": false,
+	"jsdocs_spacer_between_sections": true,
+	// "jsdocs_extra_tags": ["@author Sasaya <sasaya@bamboocat.com>"]
+}

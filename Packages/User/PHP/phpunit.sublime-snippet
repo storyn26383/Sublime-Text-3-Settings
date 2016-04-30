@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+class ${1:Unit}Test extends PHPUnit_Framework_TestCase
+{
+    public function test${2:MethodName}()
+    {
+        ${3}
+    }
+}
+]]></content>
+	<tabTrigger>phpunit</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
